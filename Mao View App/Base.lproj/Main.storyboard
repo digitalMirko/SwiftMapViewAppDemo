@@ -31,24 +31,42 @@
                     <toolbarItems>
                         <barButtonItem title="Standard" id="LQL-Yb-1gm">
                             <color key="tintColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <connections>
+                                <action selector="standardBtn:" destination="BYZ-38-t0r" id="ufY-vb-cOY"/>
+                            </connections>
                         </barButtonItem>
                         <barButtonItem title="Satellite" id="YUN-09-PNf">
                             <color key="tintColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <connections>
+                                <action selector="satelliteBtn:" destination="BYZ-38-t0r" id="Khs-BT-hEK"/>
+                            </connections>
                         </barButtonItem>
                         <barButtonItem title="Hybrid" id="F6c-NN-Yov">
                             <color key="tintColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <connections>
+                                <action selector="hybridBtn:" destination="BYZ-38-t0r" id="zVF-wt-twV"/>
+                            </connections>
                         </barButtonItem>
                         <barButtonItem style="plain" systemItem="flexibleSpace" id="RXQ-Hf-YH9"/>
                         <barButtonItem title="Locate" id="qdn-8I-PFR">
                             <color key="tintColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <connections>
+                                <action selector="locateBtn:" destination="BYZ-38-t0r" id="iru-zk-GFn"/>
+                            </connections>
                         </barButtonItem>
                     </toolbarItems>
                     <navigationItem key="navigationItem" title="Map View" id="Xqp-69-Nsm">
                         <barButtonItem key="rightBarButtonItem" title="Directions" id="2tV-Qf-EcY">
                             <color key="tintColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <connections>
+                                <action selector="directionsBtn:" destination="BYZ-38-t0r" id="wHC-wC-hb4"/>
+                            </connections>
                         </barButtonItem>
                     </navigationItem>
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
+                    <connections>
+                        <outlet property="mapView" destination="ZbI-BX-gCS" id="qiB-e9-fm7"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

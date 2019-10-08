@@ -7,15 +7,44 @@
 //
 
 import UIKit
+import MapKit
 
 class ViewController: UIViewController {
+    
+    @IBOutlet weak var mapView: MKMapView!
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
         
         
     }
-
-
+    
+    @IBAction func standardBtn(_ sender: Any) {
+        
+        
+    }
+    
+    @IBAction func satelliteBtn(_ sender: Any) {
+        
+        
+    }
+    
+    
+    @IBAction func hybridBtn(_ sender: Any) {
+        
+    }
+    
+    
+    @IBAction func locateBtn(_ sender: Any) {
+        
+        
+    }
+    
+    @IBAction func directionsBtn(_ sender: Any) {
+        
+        
+    }
+    
 }
 
