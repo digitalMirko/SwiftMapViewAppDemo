@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		ACE1DC0D234C3867009C1058 /* Mao View App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mao View App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		ACE1DC0D234C3867009C1058 /* Map View App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Map View App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACE1DC10234C3867009C1058 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ACE1DC12234C3867009C1058 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		ACE1DC14234C3867009C1058 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		ACE1DC0E234C3867009C1058 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				ACE1DC0D234C3867009C1058 /* Mao View App.app */,
+				ACE1DC0D234C3867009C1058 /* Map View App.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -96,7 +96,7 @@
 			);
 			name = "Mao View App";
 			productName = "Mao View App";
-			productReference = ACE1DC0D234C3867009C1058 /* Mao View App.app */;
+			productReference = ACE1DC0D234C3867009C1058 /* Map View App.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -304,7 +304,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.digitalmirko.Mao-View-App";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Map View App";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -322,7 +322,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.digitalmirko.Mao-View-App";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Map View App";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

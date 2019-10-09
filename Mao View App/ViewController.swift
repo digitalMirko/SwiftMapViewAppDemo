@@ -9,7 +9,7 @@
 import UIKit
 import MapKit
 
-class ViewController: UIViewController {
+class ViewController: UIViewController, CLLocationManagerDelegate {
     
     @IBOutlet weak var mapView: MKMapView!
     
@@ -17,6 +17,8 @@ class ViewController: UIViewController {
     // 233 South Wacker Drive, Chicago, IL 60606, United States of America
     var latitude = 41.878872
     var longitude = -87.635909
+    
+    var manager = CLLocationManager()
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -64,6 +66,34 @@ class ViewController: UIViewController {
     
     @IBAction func locateBtn(_ sender: Any) {
         
+        manager.delegate = self
+        
+        // req authorization from user then find location
+        manager.desiredAccuracy = kCLLocationAccuracyBest
+        manager.requestWhenInUseAuthorization()
+        manager.startUpdatingLocation()
+        
+        mapView.showsUserLocation = true 
+        
+        
+    }
+    
+    // Map View Locations
+    // call and update the map with our location
+    func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
+        
+        let userLocation: CLLocation = locations[0] as CLLocation
+        
+        manager.stopUpdatingLocation()
+        
+        let location = CLLocationCoordinate2D(latitude: userLocation.coordinate.latitude, longitude: userLocation.coordinate.longitude)
+        
+        // zoom in
+        let span = MKCoordinateSpan.init(latitudeDelta: 0.01, longitudeDelta: 0.01)
+        
+        let region = MKCoordinateRegion(center: location, span: span)
+        
+        mapView.setRegion(region, animated: true)
         
     }
     
