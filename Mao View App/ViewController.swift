@@ -29,6 +29,15 @@ class ViewController: UIViewController {
         let region = MKCoordinateRegion(center: CLLocationCoordinate2D(latitude: latitude, longitude: longitude), span: span)
         mapView.setRegion(region, animated: true)
         
+        // Map View Pin
+        let pinLocation: CLLocationCoordinate2D = CLLocationCoordinate2DMake(latitude, longitude)
+        
+        let pinObject = MKPointAnnotation()
+        pinObject.coordinate = pinLocation
+        pinObject.title = "Willis Tower"
+        pinObject.subtitle = "233 South Wacker Drive, Chicago, IL"
+        self.mapView.addAnnotation(pinObject)
+        
         
         
     }
