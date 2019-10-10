@@ -99,6 +99,8 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
     
     @IBAction func directionsBtn(_ sender: Any) {
         
+        // use Apple maps
+        UIApplication.shared.open(URL(string: "http://maps.apple.com/maps?daddr=\(latitude),\(longitude)")!, options: [:], completionHandler: nil)
         
     }
     
