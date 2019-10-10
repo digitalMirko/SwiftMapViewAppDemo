@@ -23,7 +23,6 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
         // when mapview loads up - Willis Tower
         // span of how far we zoomed in on map
         let span = MKCoordinateSpan.init(latitudeDelta: 0.01, longitudeDelta: 0.01)
@@ -39,9 +38,6 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
         pinObject.title = "Willis Tower"
         pinObject.subtitle = "233 South Wacker Drive, Chicago, IL"
         self.mapView.addAnnotation(pinObject)
-        
-        
-        
     }
     
     @IBAction func standardBtn(_ sender: Any) {
@@ -73,9 +69,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
         manager.requestWhenInUseAuthorization()
         manager.startUpdatingLocation()
         
-        mapView.showsUserLocation = true 
-        
-        
+        mapView.showsUserLocation = true
     }
     
     // Map View Locations
@@ -103,6 +97,4 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
         UIApplication.shared.open(URL(string: "http://maps.apple.com/maps?daddr=\(latitude),\(longitude)")!, options: [:], completionHandler: nil)
         
     }
-    
 }
-
