@@ -17,7 +17,7 @@ in on the area to see more details of the sourding buildings and structures.
 Now we get into what happens when you click the 'Locate' button on the bottom right. The user is prompted with a request
 message to allow access to our location. In the demo we placed it at a nearby downtown Chicago spot.
 
-In pregress read me file --- not finished yet ----
+In progress read me file --- not finished yet ----
         
 Coming soon:<br>
 Details and the screen cap images of the app in use can be found on <a href="http://digitalmirko.com/iOSApps.html">Digital Mirko</a>.
