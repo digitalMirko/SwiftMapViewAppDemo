@@ -40,12 +40,24 @@ Screen Cap on a iPhone 11 Pro Max device:(shown below)</br>
 (Bottom Middle Image) Video displayed from CNN's website.<br>
 (Bottom Right image) CNN's website displayed with article.<br>
 <p>
-  <img align="left" src="https://github.com/digitalMirko/SwiftInternetBrowserUsingWebViewsDemo/blob/master/github-iPhone11ProMax-Swift-Internet-Browser-using-WebViews-Demo01.jpg?raw=true" width="246"/>
-  <img align="left" src="https://github.com/digitalMirko/SwiftInternetBrowserUsingWebViewsDemo/blob/master/github-iPhone11ProMax-Swift-Internet-Browser-using-WebViews-Demo02.jpg?raw=true" width="246"/>
-  <img align="left" src="https://github.com/digitalMirko/SwiftInternetBrowserUsingWebViewsDemo/blob/master/github-iPhone11ProMax-Swift-Internet-Browser-using-WebViews-Demo03.jpg?raw=true" width="246"/>
-  <img align="left" src="https://github.com/digitalMirko/SwiftInternetBrowserUsingWebViewsDemo/blob/master/github-iPhone11ProMax-Swift-Internet-Browser-using-WebViews-Demo04.jpg?raw=true" width="246"/>
-  <img align="left" src="https://github.com/digitalMirko/SwiftInternetBrowserUsingWebViewsDemo/blob/master/github-iPhone11ProMax-Swift-Internet-Browser-using-WebViews-Demo06.jpg?raw=true" width="246"/>
-  <img align="left" src="https://github.com/digitalMirko/SwiftInternetBrowserUsingWebViewsDemo/blob/master/github-iPhone11ProMax-Swift-Internet-Browser-using-WebViews-Demo07.jpg?raw=true" width="246"/>
+<img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo01.jpg?raw=true" width="246"/>
+<img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo02.jpg?raw=true" width="246"/>
+<img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo03.jpg?raw=true" width="246"/>
+<img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo04.jpg?raw=true" width="246"/>
+<img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo05.jpg?raw=true" width="246"/>
+<img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo06.jpg?raw=true" width="246"/>
+<img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo07.jpg?raw=true" width="246"/>
+<img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo08.jpg?raw=true" width="246"/>
+<img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo09.jpg?raw=true" width="246"/>
+<img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo10.jpg?raw=true" width="246"/>
+<img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo11.jpg?raw=true" width="246"/>
+<img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo12.jpg?raw=true" width="246"/>
+<img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo13.jpg?raw=true" width="246"/>
+<img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo14.jpg?raw=true" width="246"/>
+<img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo15.jpg?raw=true" width="246"/>
+<img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo16.jpg?raw=true" width="246"/>
+<img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo17.jpg?raw=true" width="246"/>
+        
           
   
 </p>
