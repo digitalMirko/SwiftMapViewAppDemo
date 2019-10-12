@@ -7,8 +7,18 @@ In this demo app we demonstrate how to code a Swift Map View Application.
 
 There are so many interesting things within swift. This demo shows one way to code a swift Map View Application. There are
 some pretty interesting things you can do with Apple's map within your application. The user clicks the demo icon and is 
-taken right into the app. To a Hybrid (Standard/Satellite) map view of the Willis Tower in Chicago. You can see a color 
-aerial view looking down on downtown Chicago long with some street and location information. 
+taken right into the app. They come to a title on top 'Map View' then to the right a 'Directions' button. This button 
+when clicked gives your directions from where you currenlty are to the default location that is displayed initially as
+the app starts. Right below the top bar is running a Hybrid (Standard/Satellite) map view of the Willis Tower in Chicago. 
+
+You can see a color aerial view looking down on downtown Chicago long with some street and location information. 
+Then right below on the bottom bar we see 4 buttons (3 on the left, 1 on the right). The three on the left demonstrate 
+a few options available for types of Maps views. Note there are more options then these three. The three options used
+are 'Standard' view which shows a map view of the area. Then a 'Satellite' view which shows a color view looking down
+on the details and buildings. Followed by a 'Hybrid' view which is a combination of 'Standard' and 'Hybrid' views together.
+
+On the right is one button 'Locate'. This is designed to locate where you are on the map. When clicked it will go to that
+area, marking your location with an animated blue pin.
 
 The next view the user can see a Standard View with a pin designating the location of the Willis Tower along with its 
 address location. The pin is red in color with a pin graphic shown within the red circle object. Then we see how we can zoom
