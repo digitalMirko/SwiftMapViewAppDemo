@@ -66,11 +66,14 @@ Screen Cap on a iPhone 11 Pro Max device:(shown below)</br>
 <img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo01.jpg?raw=true" width="246"/>
 <img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo02.jpg?raw=true" width="246"/>
 <img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo03.jpg?raw=true" width="246"/>
+</p>
+<p>
 </br>
 <b>Row 2</b></br>
 <img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo04.jpg?raw=true" width="246"/>
 <img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo05.jpg?raw=true" width="246"/>
 <img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo06.jpg?raw=true" width="246"/>
+</p>
 </br>
 <b>Row 3</b></br>
 <img align="left" src="https://github.com/digitalMirko/SwiftMapViewAppDemo/blob/master/github-SwiftMapViewAppDemo07.jpg?raw=true" width="246"/>
